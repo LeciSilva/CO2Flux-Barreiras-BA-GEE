@@ -18,7 +18,7 @@ O script realiza o processamento digital de imagens orbitais em ambiente de comp
 5. **Quantificação Territorial e Exportação:** Cálculo das áreas em hectares (ha) e porcentagem (%) para as cinco classes de tendência e exportação dos produtos tabulares (`.csv`) e matriciais (`.tif`).
 
 ## Como executar
-1. Acesse o [Google Earth Engine Code Editor](https://google.com).
+1. Acesse o Google Earth Engine Code Editor (https://code.earthengine.google.com/).
 2. Copie o conteúdo do arquivo `script_co2flux_barreiras.js` deste repositório e cole no editor.
 3. Certifique-se de ter acesso ao vetor de delimitação da área de estudo (`projects/elvisbergmm/assets/Limites_Bairros`) ou substitua pelo seu próprio *Asset* geométrico.
 4. Clique em **Run** para executar o processamento e acompanhar os gráficos, a contagem de cenas e as tarefas de exportação nas abas *Console* e *Tasks*.
