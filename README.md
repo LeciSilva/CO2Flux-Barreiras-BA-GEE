@@ -22,3 +22,8 @@ O script realiza o processamento digital de imagens orbitais em ambiente de comp
 2. Copie o conteúdo do arquivo `script_co2flux_barreiras.js` deste repositório e cole no editor.
 3. Certifique-se de ter acesso ao vetor de delimitação da área de estudo (`projects/elvisbergmm/assets/Limites_Bairros`) ou substitua pelo seu próprio *Asset* geométrico.
 4. Clique em **Run** para executar o processamento e acompanhar os gráficos, a contagem de cenas e as tarefas de exportação nas abas *Console* e *Tasks*.
+## Como citar
+
+Caso utilize este código ou adapte a metodologia em suas pesquisas, por favor, cite o repositório original:
+
+> FRANÇA, Leci Silva. **CO2Flux-Barreiras-BA-GEE**: análise espaço-temporal do índice espectral CO2Flux no perímetro urbano de Barreiras-BA (2016-2025). Barreiras: GitHub, 2026. Repositório de código-fonte em JavaScript (Google Earth Engine). Disponível em: https://github.com/LeciSilva/CO2Flux-Barreiras-BA-GEE.
